@@ -15,6 +15,7 @@
 * [09-PageControl](#09-PageControl)
 * [10-Tab](#10-Tab)
 * [11-Navigationn](#11-Navigation)
+* [12-Table](#12-Table)
 
 ## Projects
 ### 02-HelloWorld
@@ -128,7 +129,7 @@
 ### 11-Navigation
 
 **제목** [내비게이션 컨트롤러 이용해 화면 전환하기](11-Navigation) | [미션](11-Navigation(Mission)) <br>
-**페이지** `P.345 ~ 392` <br>
+**페이지** `P.345 ~ 391` <br>
 **게시일**  2023년 2월 28일(화) <br>
 
 | 이미지 ① |
@@ -137,5 +138,16 @@
 
 <br>
 
+### 12-Table
+
+**제목** [](11-Table) | [미션](12-Table(Mission)) <br>
+**페이지** `P.392 ~ 438` <br>
+**게시일**  2023년 2월 28일(화) <br>
+
+| 이미지 ① |
+| :--: |
+| <img src="https://user-images.githubusercontent.com/21079970/221783230-639fcaf7-112a-4ad1-8366-080d02bdf1e5.gif" align="center" width="235" height="511"> |
+
+<br>
 
 
