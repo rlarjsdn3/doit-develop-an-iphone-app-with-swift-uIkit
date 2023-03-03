@@ -16,9 +16,10 @@
 * [10-Tab](#10-Tab)
 * [11-Navigationn](#11-Navigation)
 * [12-Table](#12-Table)
+* [13-Audio](#13-Audio)
 
-## Projects
-### 02-HelloWorld
+# Projects
+## 02-HelloWorld
 
 **제목** [Hello World 앱 만들며 Xcode에 완벽 적응하기](02-HelloWorld) <br>
 **페이지** `P.24 ~ 61` <br>
@@ -30,7 +31,7 @@
 
 <br>
 
-### 03-ImageView
+## 03-ImageView
 
 **제목** [원하는 이미지 화면에 출려하기 - 이미지뷰](03-ImageView) | [미션](03-ImageView(Mission)) <br>
 **페이지** `P.68 ~ 100` <br>
@@ -42,7 +43,7 @@
 
 <br>
 
-### 04-DatePicker
+## 04-DatePicker
 
 **제목** [데이트 피커 사용해 날짜 선택하기](04-DatePicker) | [미션](04-DatePicker(Mission)) <br>
 **페이지** `P.101 ~ 124` <br>
@@ -54,7 +55,7 @@
 
 <br>
 
-### 05-PickerView
+## 05-PickerView
 
 **제목** [피커 뷰 사용해 원하느 항목 선택하기](05-PickerView) | [미션1](05-PickerView(Mission1)) | [미션2](05-PickerView(Mission2)) <br>
 **페이지** `P.125 ~ 156` <br>
@@ -66,7 +67,7 @@
 
 <br>
 
-### 06-Alert
+## 06-Alert
 
 **제목** [얼렁 사용해 경고 메시지 표시하기](06-Alert) | [미션](06-Alert(Mission)) <br>
 **페이지** `P.157 ~ 186` <br>
@@ -78,7 +79,7 @@
 
 <br>
 
-### 07-Web
+## 07-Web
 
 **제목** [웹 뷰로 간단한 웹 브라우저 만들기](07-Web) | [미션](06-Web(Mission)) <br>
 **페이지** `P.191 ~ 239` <br>
@@ -90,7 +91,7 @@
 
 <br>
 
-### 08-Map
+## 08-Map
 
 **제목** [맵 뷰로 지도 나타내기](08-Map) | [미션](08-Map(Mission)) <br>
 **페이지** `P.240 ~ 282` <br>
@@ -102,7 +103,7 @@
 
 <br>
 
-### 09-PageControl
+## 09-PageControl
 
 **제목** [페이지 이동하기 - 페이지 컨트롤](09-PageControl) | [미션](09-PageControl(Mission)) <br>
 **페이지** `P.292 ~ 308` <br>
@@ -114,7 +115,7 @@
 
 <br>
 
-### 10-Tab
+## 10-Tab
 
 **제목** [탭 바 컨트롤러 이용해 여러 개의 뷰 넣기](10-Tab) | [미션](10-Tab(Mission)) <br>
 **페이지** `P.309 ~ 344` <br>
@@ -126,7 +127,7 @@
 
 <br>
 
-### 11-Navigation
+## 11-Navigation
 
 **제목** [내비게이션 컨트롤러 이용해 화면 전환하기](11-Navigation) | [미션](11-Navigation(Mission)) <br>
 **페이지** `P.345 ~ 391` <br>
@@ -138,9 +139,9 @@
 
 <br>
 
-### 12-Table
+## 12-Table
 
-**제목** [](11-Table) | [미션](12-Table(Mission)) <br>
+**제목** [](12-Table) | [미션](12-Table(Mission)) <br>
 **페이지** `P.392 ~ 438` <br>
 **게시일**  2023년 2월 28일(화) <br>
 
@@ -150,4 +151,15 @@
 
 <br>
 
+## 13-Audio
+
+**제목** [](13-Audio) | [미션](13-Audio(Mission)) <br>
+**페이지** `P.392 ~ 438` <br>
+**게시일**  2023년 3월 3일(금) <br>
+
+| 이미지 ① |
+| :--: |
+| <img src="https://user-images.githubusercontent.com/21079970/222644903-712f5781-27b7-4fba-9efd-5c768962b25b.gif" align="center" width="235" height="511"> |
+
+<br>
 
