@@ -154,12 +154,24 @@
 ## 13-Audio
 
 **제목** [음악 재생하고 녹음하기](13-Audio) | [미션](13-Audio(Mission)) <br>
-**페이지** `P.462 ~ 4529` <br>
+**페이지** `P.462 ~ 529` <br>
 **게시일**  2023년 3월 3일(금) <br>
 
 | 이미지 ① |
 | :--: |
 | <img src="https://user-images.githubusercontent.com/21079970/222644903-712f5781-27b7-4fba-9efd-5c768962b25b.gif" align="center" width="235" height="511"> |
+
+<br>
+
+## 13-MoviePlayer
+
+**제목** [비디오 재생 앱 만들기](14-MoviePlayer) | [미션](14-MoviePlayer(Mission)) <br>
+**페이지** `P.530 ~ 553` <br>
+**게시일**  2023년 3월 3일(금) <br>
+
+| 이미지 ① |
+| :--: |
+| <img src="https://user-images.githubusercontent.com/21079970/222659028-6a7dc5ff-9ea1-4945-9a6b-a98252855376.gif" align="center" width="235" height="511"> |
 
 <br>
 
