@@ -19,6 +19,7 @@
 * [13-Audio](#13-Audio)
 * [14-MoviePlayer](#14-MoviePlayer)
 * [15-CameraPhotoLibrary](#15-CameraPhotoLibrary)
+* [16-DrawGraphics](#16-DrawGraphics)
 
 # Projects
 ## 02-HelloWorld
@@ -189,5 +190,28 @@
 
 <br>
 
+## 16-DrawGraphics
+
+**제목** [코어 그래픽스로 화면에 그림 그리기](16-DrawGraphics) | [미션](16-DrawGraphics(Mission)) <br>
+**페이지** `P.587 ~ 612` <br>
+**게시일**  2023년 3월 5일(일) <br>
+
+| 이미지 ① |
+| :--: |
+| <img src="https://user-images.githubusercontent.com/21079970/222939765-46dbf996-7608-4736-981c-3afb112116f4.gif" align="center" width="235" height="511"> |
+
+<br>
+
+## 16-TapTouch
+
+**제목** 탭과 터치 사용해 스케치 앱 만들기 [#1](16-TapTouch) [#2](16-Sketch) | [미션](17-Sketch(Mission)) <br>
+**페이지** `P.616 ~ 645` <br>
+**게시일**  2023년 3월 5일(일) <br>
+
+| 이미지 ① | 이미지 ②
+| :--: | :--: |
+| <img src="https://user-images.githubusercontent.com/21079970/222939768-51b1959e-86ae-4b63-beaa-9138b8366769.gif" align="center" width="235" height="511"> |  <img src="https://user-images.githubusercontent.com/21079970/222939769-4272117f-9ff9-46b2-910a-1b354ed2f3cb.gif" align="center" width="235" height="511"> |
+
+<br>
 
 
