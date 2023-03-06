@@ -4,6 +4,8 @@
 ## Overview
 > ⌜Doit! 스위프트로 아이폰 앱 만들기⌟(이지스퍼블리싱, 송호정 외 1명 저)의 학습 내용을 정리한 저장소입니다.
 
+**BOOK LINK** [Do it! 스위프트로 아이폰 앱 만들기: 입문](https://product.kyobobook.co.kr/detail/S000200662199)
+
 ## Table Of Contents
 * [02-HelloWorld](#02-HelloWorld)
 * [03-ImageView](#03-ImageView)
