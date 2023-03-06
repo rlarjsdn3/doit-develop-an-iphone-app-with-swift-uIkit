@@ -20,6 +20,9 @@
 * [14-MoviePlayer](#14-MoviePlayer)
 * [15-CameraPhotoLibrary](#15-CameraPhotoLibrary)
 * [16-DrawGraphics](#16-DrawGraphics)
+* [17-TapTouch](#17-TapTouch)
+* [18-SwipeGesture](#18-SwipeGesture)
+* [19-PinchGesture](#19-PinchGesture)
 
 # Projects
 ## 02-HelloWorld
@@ -202,7 +205,7 @@
 
 <br>
 
-## 16-TapTouch
+## 17-TapTouch
 
 **제목** 탭과 터치 사용해 스케치 앱 만들기 [#1](16-TapTouch) [#2](16-Sketch) | [미션](17-Sketch(Mission)) <br>
 **페이지** `P.616 ~ 645` <br>
@@ -214,4 +217,27 @@
 
 <br>
 
+## 18-SwipeGesture
+
+**제목** [스와이프 제스처 사용하기](18-SwipeGesture) | [미션](18-SwipeGesture(Mission)) <br>
+**페이지** `P.646 ~ 675` <br>
+**게시일**  2023년 3월 6일(월) <br>
+
+| 이미지 ① |
+| :--: |
+| <img src="https://user-images.githubusercontent.com/21079970/223029744-4f012f2c-c094-473a-8acb-3ec868fdb833.gif" align="center" width="235" height="511"> |
+
+<br>
+
+## 19-PinchGesture
+
+**제목** 핀치 제스처 사용해 사진 확대/축소하기 [#1](19-TextPinch) [#2](19-ImagePinch) | [미션](19-PinchGesture(Mission)) <br>
+**페이지** `P.587 ~ 612` <br>
+**게시일**  2023년 3월 5일(일) <br>
+
+| 이미지 ① |
+| :--: |
+| <img src="https://user-images.githubusercontent.com/21079970/223029957-f69355dc-860c-498b-8800-7856dbb2063e.gif" align="center" width="235" height="511"> |
+
+<br>
 
